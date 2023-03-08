@@ -1,2 +1,2 @@
-# BigSchool
+# Big School
 ASP.NET Web Application MVC
