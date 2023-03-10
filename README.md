@@ -1,2 +1,3 @@
 # Big School
-ASP.NET Web Application MVC
+Manage and track online courses.
+
